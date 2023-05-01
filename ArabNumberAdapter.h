@@ -2,7 +2,6 @@
 
 #include <string>
 
-
 class ArabNumberAdapter /* extends Integer */ {
 public:
 	ArabNumberAdapter(const std::string& romanNumber);
